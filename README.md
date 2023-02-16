@@ -9,8 +9,7 @@ Create a simple calculator app according to the gif below (on the next page) and
  Add/multiply,subtract/divide can be clubbed together (just like a normal calculator on your phone).
 
 
-## Hostedlink
-[ReactJS Calculator]-()
+## Hostedlink [ReactJS Calculator]- ( 'https://react-calculator-6yri.onrender.com/')
 
 
 ## 🖼️ Screenshots
